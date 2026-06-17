@@ -1,6 +1,6 @@
 # Kaggle Python Data Science Foundation
 
-This repository contains my beginner data science and machine learning learning projects using Python, Pandas, and Data Visualization.
+This repository contains my beginner data science projects focused on Python, Pandas, data visualization, and machine learning foundations.
 
 ## Learning Goals
 
