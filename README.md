@@ -219,7 +219,7 @@ Planned skills:
 Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/kaggle-python-data-science-foundation.git
+git clone https://github.com/tuananhsaigon/kaggle-python-data-science-foundation.git
 ```
 
 Install required libraries:
