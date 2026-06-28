@@ -291,6 +291,58 @@ Skills practiced:
 - [ ] Learn hyperparameter tuning
 - [ ] Build improved Titanic ML model
 
+### 6. Titanic Model Improvement
+
+This project improves the Titanic survival prediction model using a more professional machine learning workflow.
+
+Main tasks:
+
+- Create advanced features such as FamilySize, IsAlone, FarePerPerson, Title, and Deck
+- Build a preprocessing pipeline
+- Process numeric and categorical features separately
+- Use SimpleImputer for missing values
+- Use OneHotEncoder for categorical variables
+- Use cross-validation to evaluate models
+- Compare Logistic Regression, Random Forest, and Gradient Boosting
+- Tune Random Forest hyperparameters with RandomizedSearchCV
+- Evaluate the tuned model on a validation set
+- Analyze feature importance
+- Generate an improved Kaggle submission file
+
+Models used:
+
+- Logistic Regression
+- Random Forest Classifier
+- Gradient Boosting Classifier
+
+Skills practiced:
+
+- Feature engineering
+- Pipeline
+- ColumnTransformer
+- Cross-validation
+- Hyperparameter tuning
+- Model comparison
+- Feature importance
+- Kaggle submission workflow
+
+## Current Progress
+
+- [x] Set up GitHub repository
+- [x] Add README.md
+- [x] Add requirements.txt
+- [x] Add .gitignore
+- [x] Create project folders
+- [x] Upload first Python mini project
+- [x] Upload Pandas sales analysis project
+- [x] Upload sales dashboard visualization project
+- [x] Upload Titanic EDA project
+- [x] Build first machine learning model
+- [x] Improve Titanic machine learning model
+- [ ] Learn XGBoost
+- [ ] Learn LightGBM
+- [ ] Learn model deployment
+
 ## How to Run This Project
 
 Clone this repository:
