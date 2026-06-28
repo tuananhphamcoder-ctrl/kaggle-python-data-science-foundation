@@ -190,15 +190,55 @@ The next planned projects are:
 
 ### 4. Titanic Exploratory Data Analysis
 
-Use a real Kaggle dataset to perform exploratory data analysis.
+This project uses the real Titanic dataset from Kaggle to perform exploratory data analysis.
 
-Planned skills:
+Main tasks:
 
-* Load real CSV data
-* Analyze missing values
-* Explore survival patterns
-* Create visualizations
-* Write data insights
+- Load real CSV data from Kaggle
+- Explore dataset structure
+- Analyze missing values
+- Calculate survival rates
+- Analyze survival by gender
+- Analyze survival by passenger class
+- Analyze age and fare distributions
+- Create new features such as FamilySize, IsAlone, and AgeGroup
+- Create visualizations using Matplotlib and Seaborn
+- Export cleaned dataset for future machine learning
+
+Key visualizations:
+
+- Survival count chart
+- Survival rate by gender
+- Survival rate by passenger class
+- Age distribution
+- Fare distribution
+- Correlation heatmap
+- Titanic EDA dashboard
+
+Skills practiced:
+
+- Real dataset analysis
+- Missing value analysis
+- Feature engineering
+- Exploratory data analysis
+- Data visualization
+- Business/data insight writing
+
+## Current Progress
+
+- [x] Set up GitHub repository
+- [x] Add README.md
+- [x] Add requirements.txt
+- [x] Add .gitignore
+- [x] Create project folders
+- [x] Upload first Python mini project
+- [x] Upload Pandas sales analysis project
+- [x] Upload sales dashboard visualization project
+- [x] Upload Titanic EDA project
+- [ ] Complete Kaggle Python course
+- [ ] Complete Kaggle Pandas course
+- [ ] Complete Kaggle Data Visualization course
+- [ ] Build first machine learning model
 
 ### 5. Titanic Survival Prediction
 
