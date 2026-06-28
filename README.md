@@ -242,17 +242,54 @@ Skills practiced:
 
 ### 5. Titanic Survival Prediction
 
-Build a beginner machine learning model to predict Titanic passenger survival.
+This project builds machine learning models to predict Titanic passenger survival.
 
-Planned skills:
+Main tasks:
 
-* Data preprocessing
-* Feature engineering
-* Train/test split
-* Classification model
-* Model evaluation
+- Load train and test datasets from Kaggle
+- Handle missing values
+- Create new features such as FamilySize and IsAlone
+- Encode categorical variables
+- Select features for machine learning
+- Split data into training and validation sets
+- Train Logistic Regression model
+- Train Random Forest model
+- Compare model accuracy
+- Analyze feature importance
+- Generate Kaggle submission file
 
----
+Models used:
+
+- Logistic Regression
+- Random Forest Classifier
+
+Skills practiced:
+
+- Data preprocessing
+- Feature engineering
+- Classification modeling
+- Model evaluation
+- Accuracy score
+- Confusion matrix
+- Classification report
+- Feature importance
+- Kaggle submission workflow
+
+## Current Progress
+
+- [x] Set up GitHub repository
+- [x] Add README.md
+- [x] Add requirements.txt
+- [x] Add .gitignore
+- [x] Create project folders
+- [x] Upload first Python mini project
+- [x] Upload Pandas sales analysis project
+- [x] Upload sales dashboard visualization project
+- [x] Upload Titanic EDA project
+- [x] Build first machine learning model
+- [ ] Learn cross-validation
+- [ ] Learn hyperparameter tuning
+- [ ] Build improved Titanic ML model
 
 ## How to Run This Project
 
