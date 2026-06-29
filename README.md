@@ -343,6 +343,60 @@ Skills practiced:
 - [ ] Learn LightGBM
 - [ ] Learn model deployment
 
+### 7. House Price Prediction with Regression
+
+This project builds regression models to predict house prices using the Kaggle House Prices dataset.
+
+Main tasks:
+
+- Load a real regression dataset
+- Analyze the SalePrice target variable
+- Apply log transformation to SalePrice
+- Analyze missing values
+- Explore correlation with SalePrice
+- Create new features such as TotalSF, TotalBathrooms, HouseAge, RemodAge, HasGarage, and HasBasement
+- Process numeric and categorical features using Pipeline and ColumnTransformer
+- Train multiple regression models
+- Compare models using RMSE, MAE, and R2 Score
+- Use cross-validation for more reliable evaluation
+- Generate a Kaggle submission file
+
+Models used:
+
+- Linear Regression
+- Ridge Regression
+- Random Forest Regressor
+- Gradient Boosting Regressor
+
+Skills practiced:
+
+- Regression modeling
+- Target transformation
+- Feature engineering
+- Pipeline
+- ColumnTransformer
+- RMSE evaluation
+- Cross-validation
+- Kaggle submission workflow
+
+## Current Progress
+
+- [x] Set up GitHub repository
+- [x] Add README.md
+- [x] Add requirements.txt
+- [x] Add .gitignore
+- [x] Create project folders
+- [x] Upload first Python mini project
+- [x] Upload Pandas sales analysis project
+- [x] Upload sales dashboard visualization project
+- [x] Upload Titanic EDA project
+- [x] Build first machine learning model
+- [x] Improve Titanic machine learning model
+- [x] Build first regression model
+- [ ] Learn XGBoost
+- [ ] Learn LightGBM
+- [ ] Learn model deployment
+
 ## How to Run This Project
 
 Clone this repository:
