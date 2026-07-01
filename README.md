@@ -397,6 +397,59 @@ Skills practiced:
 - [ ] Learn LightGBM
 - [ ] Learn model deployment
 
+### 8. House Price Model Improvement
+
+This project improves the house price regression model using advanced feature engineering, outlier handling, gradient boosting models, and hyperparameter tuning.
+
+Main tasks:
+
+- Analyze and remove outliers
+- Apply log transformation to SalePrice
+- Create advanced features such as TotalSF, TotalBathrooms, HouseAge, RemodAge, HasGarage, HasBasement, and OverallQual_TotalSF
+- Process numeric and categorical features using Pipeline and ColumnTransformer
+- Compare Ridge, Random Forest, Gradient Boosting, XGBoost, and LightGBM
+- Use cross-validation for more reliable evaluation
+- Tune Gradient Boosting with RandomizedSearchCV
+- Evaluate tuned model using RMSE, MAE, and R2 Score
+- Generate an improved Kaggle submission file
+
+Models used:
+
+- Ridge Regression
+- Random Forest Regressor
+- Gradient Boosting Regressor
+- XGBoost Regressor
+- LightGBM Regressor
+
+Skills practiced:
+
+- Outlier handling
+- Advanced feature engineering
+- Regression model improvement
+- Cross-validation
+- Hyperparameter tuning
+- XGBoost
+- LightGBM
+- Kaggle submission workflow
+
+## Current Progress
+
+- [x] Set up GitHub repository
+- [x] Add README.md
+- [x] Add requirements.txt
+- [x] Add .gitignore
+- [x] Create project folders
+- [x] Upload first Python mini project
+- [x] Upload Pandas sales analysis project
+- [x] Upload sales dashboard visualization project
+- [x] Upload Titanic EDA project
+- [x] Build first machine learning model
+- [x] Improve Titanic machine learning model
+- [x] Build first regression model
+- [x] Improve house price regression model
+- [ ] Learn model deployment
+- [ ] Build a machine learning web app
+
 ## How to Run This Project
 
 Clone this repository:
